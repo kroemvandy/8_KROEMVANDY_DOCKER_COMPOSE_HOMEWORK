@@ -1,3 +1,3 @@
-employees:
+employee:
   service:
-    url: http://localhost:8081/api/employee
+    url: "hello from Git Repo!"
